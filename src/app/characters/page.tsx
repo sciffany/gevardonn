@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { CHARACTERS, CharacterSlug } from "./[character]/page";
+import { CHARACTERS, CharacterSlug } from "./data";
 
 const Characters = [
   {
